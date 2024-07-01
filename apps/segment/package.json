@@ -13,7 +13,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@hookform/resolvers": "^3.3.1",
+    "@hookform/resolvers": "^3.6.0",
     "@opentelemetry/api": "../../node_modules/@opentelemetry/api",
     "@opentelemetry/api-logs": "../../node_modules/@opentelemetry/api-logs",
     "@opentelemetry/core": "../../node_modules/@opentelemetry/core",
